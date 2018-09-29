@@ -1,0 +1,14 @@
+.home-div{
+  color:#333;
+}
+
+.imgBox{
+  width:.5rem;
+  height:.2rem;
+  border:1px solid #ccc;
+  background: url('../../assets/img/aa.png');
+  background-size: .5rem .2rem;
+  display: inline-block;
+  margin-left: .5rem;
+  vertical-align:middle;
+}
